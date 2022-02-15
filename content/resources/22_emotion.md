@@ -5,8 +5,13 @@ description: Lecture presentation on emotion, emotional expression in animals, e
   aggression, brain transections and sham rage, rage from electrical stimulation,
   a neural circuit for aggression, attachment, the vole as a model system for pair-bonding,
   oxytocin and vasopressin, and partner preference formation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-introduction-to-neuroscience-fall-2007/5025b44f121be4c9e979778c54842b73_22_emotion.pdf
+file: /media/courses/9-01-introduction-to-neuroscience-fall-2007/5025b44f121be4c9e979778c54842b73_22_emotion.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Emotion
 uid: 5025b44f-121b-e4c9-e979-778c54842b73

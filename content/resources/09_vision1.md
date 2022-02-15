@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on neural systems, the anatomy of the eye, the optic
   nerve, and reality versus perception.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-introduction-to-neuroscience-fall-2007/918a3e33ec709072082f742bdbac8c44_09_vision1.pdf
+file: /media/courses/9-01-introduction-to-neuroscience-fall-2007/918a3e33ec709072082f742bdbac8c44_09_vision1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Vision 1: The Eye'
 uid: 918a3e33-ec70-9072-082f-742bdbac8c44

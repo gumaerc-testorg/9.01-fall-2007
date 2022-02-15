@@ -7,8 +7,13 @@ description: "Lecture notes on neural systems, the motor system, movement, supra
   \ task, M1 cells, complex actions evoked by electrical stimulation, the final common\
   \ pathway, basal ganglia, Parkinson\u2019s disease, Huntington\u2019s disease, and\
   \ cerebellar function."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-introduction-to-neuroscience-fall-2007/b81b265b817be0fecfb6d534bbe55588_15_motor2.pdf
+file: /media/courses/9-01-introduction-to-neuroscience-fall-2007/b81b265b817be0fecfb6d534bbe55588_15_motor2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Movement II
 uid: b81b265b-817b-e0fe-cfb6-d534bbe55588

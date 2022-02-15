@@ -7,8 +7,13 @@ description: Lecture notes on declarative memory, temporal lobe epilepsy, bilate
   a synaptic plasticity experiment, long-term potentiation (LTP), long-term depression
   (LTD), glutamate receptor subtypes, the NMDA receptor, the Morris water maze, NR1
   knockout, pattern completion, and interference.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-introduction-to-neuroscience-fall-2007/486d67fe991c0d6a3836601480b456f0_19_declarative.pdf
+file: /media/courses/9-01-introduction-to-neuroscience-fall-2007/486d67fe991c0d6a3836601480b456f0_19_declarative.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Declarative Memory
 uid: 486d67fe-991c-0d6a-3836-601480b456f0

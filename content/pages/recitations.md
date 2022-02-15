@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: bae09683-5d94-fdf2-fc27-da41b1f56514
 ---
@@ -41,13 +44,13 @@ Introduction
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
 Cellular neuroanatomy: neurons and glia
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/wk02_sechand0910))
@@ -65,13 +68,13 @@ Neurophysiology 1: resting potential
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
 Neurophysiology 2: action potential
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/wk03_sechand0917))
@@ -149,7 +152,7 @@ Vision 1: the eye
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +164,7 @@ Vision 2: thalamus and V1 cortex
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/wk07_sechand1015))
@@ -179,13 +182,13 @@ Vision 3: beyond V1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
 Hearing
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/wk08_sechand1022))
@@ -205,13 +208,13 @@ Olfaction
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
 Motor system 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/wk09_sechand1029))
@@ -273,13 +276,13 @@ Recitation 1 ([PDF]({{< baseurl >}}/resources/wk12_sechand1119))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
 Chemical control of brain 2 motivation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 2 ([PDF]({{< baseurl >}}/resources/wk13_9_01_r08))
@@ -297,13 +300,13 @@ Learning and memory 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
 Attention
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/wk13_9_01_r08))
@@ -321,13 +324,13 @@ Learning and memory 2
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 15
 {{< tdclose >}}
 {{< tdopen >}}
 Emotion
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Recitation 2 ([PDF]({{< baseurl >}}/resources/wk15_9_01_r09))
 {{< tdclose >}}
 
