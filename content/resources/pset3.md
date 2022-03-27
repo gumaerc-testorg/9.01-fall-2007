@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fb7df64-2d96-dddd-d906-59ce2c172973
 resourcetype: Document
 title: 'Problem Set 3: Learning and Memory'
 uid: 77600741-adc3-d76a-8330-709757929578

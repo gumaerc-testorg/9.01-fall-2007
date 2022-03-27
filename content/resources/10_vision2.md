@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 13bfc739-a727-5b79-027b-eb0a27682a6f
 resourcetype: Document
 title: 'Vision 2: Thalamus and V1 Cortex'
 uid: e16c00ee-c1cc-935f-93dd-94f47b95b67e

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fb7df64-2d96-dddd-d906-59ce2c172973
 resourcetype: Document
 title: 'Problem Set 1: Cellular Neurophysiology'
 uid: f3de43b1-b3bc-1a94-3dbc-f0f8468b6ece

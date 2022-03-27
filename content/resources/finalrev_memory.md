@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4bb9dfc4-e370-cd9f-5ff8-b6ae52b87558
 resourcetype: Document
 title: Learning and Memory
 uid: 60bf27db-a042-fb55-bb2b-12e2771150e3

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 13bfc739-a727-5b79-027b-eb0a27682a6f
 resourcetype: Document
 title: 'Vision 1: The Eye'
 uid: 918a3e33-ec70-9072-082f-742bdbac8c44

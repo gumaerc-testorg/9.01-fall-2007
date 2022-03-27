@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4bb9dfc4-e370-cd9f-5ff8-b6ae52b87558
 resourcetype: Document
 title: Neuroscience Experiments
 uid: b609be50-b5de-39ea-40e6-b03fb8b83c5c

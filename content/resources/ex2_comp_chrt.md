@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4bb9dfc4-e370-cd9f-5ff8-b6ae52b87558
 resourcetype: Document
 title: Comparison Chart
 uid: e8842f30-b3a8-5503-cf8f-22174423599d

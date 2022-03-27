@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4bb9dfc4-e370-cd9f-5ff8-b6ae52b87558
 resourcetype: Document
 title: Final Exam Review
 uid: 6d65403d-1e25-4cba-43e8-94a57b9ae309

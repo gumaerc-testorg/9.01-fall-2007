@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 13bfc739-a727-5b79-027b-eb0a27682a6f
 resourcetype: Document
 title: Movement II
 uid: b81b265b-817b-e0fe-cfb6-d534bbe55588

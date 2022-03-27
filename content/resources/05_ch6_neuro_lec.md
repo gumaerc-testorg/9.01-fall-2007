@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 13bfc739-a727-5b79-027b-eb0a27682a6f
 resourcetype: Document
 title: Neurotransmitters
 uid: 49ce116a-8617-053b-d222-140c80b46a0f

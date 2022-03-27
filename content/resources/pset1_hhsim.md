@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4fb7df64-2d96-dddd-d906-59ce2c172973
 resourcetype: Document
 title: The Simulation Program HHsim
 uid: 11112692-31ab-7ef0-dc1f-ca1e185ddb0f

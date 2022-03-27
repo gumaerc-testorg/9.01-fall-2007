@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 13bfc739-a727-5b79-027b-eb0a27682a6f
 resourcetype: Document
 title: Taste and Smell
 uid: b1d56ee6-b5ba-bc13-55b5-273730ef62d3
