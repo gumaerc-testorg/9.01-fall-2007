@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section presents selected notes from the three recitation sections.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -53,9 +54,9 @@ Cellular neuroanatomy: neurons and glia
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk02_sechand0910))
+Recitation 1 ({{% resource_link 5d0a34d6-1307-6973-3815-477bf0a5978f "PDF" %}})
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk02_9_01_r01))
+Recitation 2 ({{% resource_link 4577791f-4c87-b819-b3e3-4700eb7d3028 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,9 +78,9 @@ Neurophysiology 2: action potential
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk03_sechand0917))
+Recitation 1 ({{% resource_link b4f9a58d-7ac3-f75f-1785-4685b5d84c04 "PDF" %}})
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk03_9_01_r02))
+Recitation 2 ({{% resource_link 3a2fa425-7849-9c13-587b-e8fa06437abe "PDF" %}})
 
 
 {{< tdclose >}}
@@ -101,9 +102,9 @@ Synaptic transmission 2: chemistry
 {{< tdopen >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk04_sechand0924))
+Recitation 1 ({{% resource_link e03e6647-b289-df96-7f19-ec1e73b908c4 "PDF" %}})
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk04_9_01_r03))
+Recitation 2 ({{% resource_link 4f88df62-96f3-8f25-3574-cc41fff5a118 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -167,9 +168,9 @@ Vision 2: thalamus and V1 cortex
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk07_sechand1015))
+Recitation 1 ({{% resource_link ec0a36e0-eda2-be35-4518-1cd389369664 "PDF" %}})
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk07_9_01_r04))
+Recitation 2 ({{% resource_link aeda0ca1-42a9-f4c0-062c-4b0e791027b4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -191,11 +192,11 @@ Hearing
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk08_sechand1022))
+Recitation 1 ({{% resource_link 33a524e1-06d8-016e-5b1b-870e0058a395 "PDF" %}})
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk08_9_01_r05))
+Recitation 2 ({{% resource_link 34922e7d-994f-f4c1-80ec-bca7817c1831 "PDF" %}})
 
-Recitation 3 ([PDF]({{< baseurl >}}/resources/wk08_hand102407))
+Recitation 3 ({{% resource_link 0f22ee8f-3f06-7dc4-bd80-88131a9485d3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -217,11 +218,11 @@ Motor system 1
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk09_sechand1029))
+Recitation 1 ({{% resource_link c0918423-f3e0-e6f1-7407-36d49b2144d7 "PDF" %}})
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk09_9_01_r06))
+Recitation 2 ({{% resource_link 2efeec65-8566-4532-2f68-18d74cc3715d "PDF" %}})
 
-Recitation 3 ([PDF]({{< baseurl >}}/resources/wk09_hand103107))
+Recitation 3 ({{% resource_link 5c288de1-be71-a31f-d849-b9f3c062dfd6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -271,7 +272,7 @@ Chemical control of brain 1
 Brain disorders
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk12_sechand1119))
+Recitation 1 ({{% resource_link 2ab25c71-8320-2407-406a-bd72a3a15b1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,9 +286,9 @@ Chemical control of brain 2 motivation
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk13_9_01_r08))
+Recitation 2 ({{% resource_link 6434e1aa-333b-4c7e-11d0-419ae07611a6 "PDF" %}})
 
-Recitation 3 ([PDF]({{< baseurl >}}/resources/wk13_9_01_r08))
+Recitation 3 ({{% resource_link 6434e1aa-333b-4c7e-11d0-419ae07611a6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -309,9 +310,9 @@ Attention
 {{< tdopen rowspan="2" >}}
 
 
-Recitation 1 ([PDF]({{< baseurl >}}/resources/wk13_9_01_r08))
+Recitation 1 ({{% resource_link 6434e1aa-333b-4c7e-11d0-419ae07611a6 "PDF" %}})
 
-Recitation 3 ([PDF]({{< baseurl >}}/resources/wk14_hand120507))
+Recitation 3 ({{% resource_link d3f598d5-68d2-3b69-a3ca-832bcd1d693c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -331,7 +332,7 @@ Learning and memory 2
 Emotion
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Recitation 2 ([PDF]({{< baseurl >}}/resources/wk15_9_01_r09))
+Recitation 2 ({{% resource_link 63c9fdd7-7ffa-e961-c933-2b8574413d97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
