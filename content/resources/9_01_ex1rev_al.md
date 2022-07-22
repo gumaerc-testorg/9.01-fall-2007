@@ -5,6 +5,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/a61ab05abd8e0a581d03e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Review
 uid: a61ab05a-bd8e-0a58-1d03-eb275bbd5780
 ---
 Review materials for an exam on neuroscience.
-

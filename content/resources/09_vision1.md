@@ -6,6 +6,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/918a3e33ec709072082f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Vision 1: The Eye'
 uid: 918a3e33-ec70-9072-082f-742bdbac8c44
 ---
 Lecture presentation on neural systems, the anatomy of the eye, the optic nerve, and reality versus perception.
-

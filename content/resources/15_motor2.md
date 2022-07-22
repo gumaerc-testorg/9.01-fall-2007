@@ -11,6 +11,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/b81b265b817be0fecfb6d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Movement II
 uid: b81b265b-817b-e0fe-cfb6-d534bbe55588
 ---
 Lecture notes on neural systems, the motor system, movement, supraspinal motor areas, extraocular muscles and eye movement, the vestibulo-ocular reflex, vestibular organs, the map of saccade vectors on the superior colliculus, upper motor neurons, corticospinal pathways, motor cortical areas, center-out reaching task, M1 cells, complex actions evoked by electrical stimulation, the final common pathway, basal ganglia, Parkinson’s disease, Huntington’s disease, and cerebellar function.
-

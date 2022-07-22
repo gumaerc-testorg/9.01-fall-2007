@@ -7,6 +7,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/ec0a36e0eda2be3545181
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Week 7, Recitation 1
 uid: ec0a36e0-eda2-be35-4518-1cd389369664
 ---
 Recitation notes on the central nervous system, the peripheral nervous system, the anatomy of the eye, image formation by the eye, anatomy of the retina, phototransduction, and dark and light adaptation.
-

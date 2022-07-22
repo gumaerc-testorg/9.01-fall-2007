@@ -11,6 +11,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/35fbc750c2a62f7b0d2d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: 35fbc750-c2a6-2f7b-0d2d-15ccaf34b80a
 ---
 Lecture notes on neural systems, motor systems, movement, actin/myosin, skeletal muscle, steps in a muscle twitch, lower motor neurons, the
 spinal cord, the motor neuron pool, control of muscle force, reflex behavior, DRG cells, muscle spindles, mono-synaptic reflex arcs, the myotatic reflex, intrafusal fibers, gamma motor neurons, the Golgi tendon organs, the flexor reflex, reciprocal inhibition of flexors and extensors, rhythmic behaviors, central pattern generators, intrinsic oscillators, and mutual inhibition.
-

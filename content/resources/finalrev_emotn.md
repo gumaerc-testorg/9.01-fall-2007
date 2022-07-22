@@ -6,6 +6,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/a6eafa79eebfa273cbe2f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Emotion
 uid: a6eafa79-eebf-a273-cbe2-fcc9f08aff1e
 ---
 Review material for the final exam of the course. Topics include theories of emotion, the anatomical basis for emotion, aggression, serotonin, and attachment.
-

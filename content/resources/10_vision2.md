@@ -6,6 +6,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/e16c00eec1cc935f93dd9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Vision 2: Thalamus and V1 Cortex'
 uid: e16c00ee-c1cc-935f-93dd-94f47b95b67e
 ---
 Lecture notes on neural systems, vision, illusions, reflectance, light, and color.
-

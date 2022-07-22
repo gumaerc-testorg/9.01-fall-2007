@@ -5,6 +5,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/e03e6647b289df967f19e
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 4, Recitation 1
 uid: e03e6647-b289-df96-7f19-ec1e73b908c4
 ---
 Recitation notes with review questions on synaptic transmission chemistry.
-

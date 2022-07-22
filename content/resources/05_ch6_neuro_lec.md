@@ -5,6 +5,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/49ce116a8617053bd2221
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Neurotransmitters
 uid: 49ce116a-8617-053b-d222-140c80b46a0f
 ---
 Lecture presentation on neurotransmitters.
-

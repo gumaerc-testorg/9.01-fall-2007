@@ -5,6 +5,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/2ab25c7183202407406ab
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 12, Recitation 1
 uid: 2ab25c71-8320-2407-406a-bd72a3a15b1d
 ---
 Recitation notes on chemical control of the brain and behavior.
-

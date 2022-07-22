@@ -6,6 +6,7 @@ file: /courses/9-01-introduction-to-neuroscience-fall-2007/1111269231ab7ef0dc1fc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Simulation Program HHsim
 uid: 11112692-31ab-7ef0-dc1f-ca1e185ddb0f
 ---
 Instructions on how to use the computer program HHsim to simulate a variant of the Hodgkin-Huxley model.
-
