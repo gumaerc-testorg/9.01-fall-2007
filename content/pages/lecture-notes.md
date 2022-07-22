@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section presents the schedule of lecture topics and selected lecture
+  notes for Parts 2 and 3 of the class.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 13bfc739-a727-5b79-027b-eb0a27682a6f
 ---
@@ -45,7 +50,7 @@ Graybiel
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Vision 1: the eye ([PDF]({{< baseurl >}}/resources/09_vision1))
+Vision 1: the eye ({{% resource_link 918a3e33-ec70-9072-082f-742bdbac8c44 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -53,7 +58,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -61,7 +66,7 @@ Seung
 
 Anatomy quiz
 
-Vision 2: thalamus and V1 cortex ([PDF]({{< baseurl >}}/resources/10_vision2))
+Vision 2: thalamus and V1 cortex ({{% resource_link e16c00ee-c1cc-935f-93dd-94f47b95b67e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -72,7 +77,7 @@ Seung
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Vision 3: beyond V1 ([PDF]({{< baseurl >}}/resources/11_vision3))
+Vision 3: beyond V1 ({{% resource_link 5e6f0adf-a8a0-e954-70df-9b9810a6be06 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -80,11 +85,11 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Hearing ([PDF]({{< baseurl >}}/resources/12_hearing))
+Hearing ({{% resource_link 789180c4-f020-757d-cec7-5bdab822f590 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -93,7 +98,7 @@ Seung
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Olfaction ([PDF]({{< baseurl >}}/resources/13_tastesmell))
+Olfaction ({{% resource_link b1d56ee6-b5ba-bc13-55b5-273730ef62d3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -101,11 +106,11 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Motor system 1 ([PDF]({{< baseurl >}}/resources/14_motor1))
+Motor system 1 ({{% resource_link 35fbc750-c2a6-2f7b-0d2d-15ccaf34b80a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -114,7 +119,7 @@ Seung
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Motor system 2 ([PDF]({{< baseurl >}}/resources/15_motor2))
+Motor system 2 ({{% resource_link b81b265b-817b-e0fe-cfb6-d534bbe55588 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -156,7 +161,7 @@ Bear
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Brain disorders ([PDF]({{< baseurl >}}/resources/17_bcs_lec_11_19)) (Courtesy of Prof. Li-Huei Tsai. Used with permission.)
+Brain disorders ({{% resource_link 1339c1f0-8c60-e94e-ceb6-96358462d9f9 "PDF" %}}) (Courtesy of Prof. Li-Huei Tsai. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Tsai
@@ -164,7 +169,7 @@ Tsai
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -177,7 +182,7 @@ Bear
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Learning and memory 1 ([PDF - 1.6 MB]({{< baseurl >}}/resources/19_declarative))
+Learning and memory 1 ({{% resource_link 486d67fe-991c-0d6a-3836-601480b456f0 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -185,7 +190,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -198,7 +203,7 @@ Desimone
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Learning and memory 2 ([PDF]({{< baseurl >}}/resources/21_nondeclarativ))
+Learning and memory 2 ({{% resource_link 213b7615-4caa-fa7c-1970-30c08e5bca33 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung
@@ -206,11 +211,11 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Emotion ([PDF]({{< baseurl >}}/resources/22_emotion))
+Emotion ({{% resource_link 5025b44f-121b-e4c9-e979-778c54842b73 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Seung

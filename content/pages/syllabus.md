@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, goals,
+  content, the textbook, exams, problem sets, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 85fd7195-03a9-b7e5-82ce-09542f1a4f97
 ---
@@ -152,7 +156,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -179,7 +183,7 @@ Bear
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -188,7 +192,7 @@ Neurophysiology 2: action potential
 {{< tdopen >}}
 Bear
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Problem set 1 due
 {{< tdclose >}}
 
@@ -269,7 +273,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -302,7 +306,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -311,7 +315,7 @@ Hearing
 {{< tdopen >}}
 Seung
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Problem set 2 due
 {{< tdclose >}}
 
@@ -326,7 +330,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -404,7 +408,7 @@ Tsai
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -431,7 +435,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -440,7 +444,7 @@ Attention
 {{< tdopen >}}
 Desimone
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Problem set 3 due
 {{< tdclose >}}
 
@@ -455,7 +459,7 @@ Seung
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 15
 {{< tdclose >}}
 {{< tdopen >}}
