@@ -16,7 +16,7 @@ Exam 1 Review
 
 Review ({{% resource_link a61ab05a-bd8e-0a58-1d03-eb275bbd5780 "PDF" %}})
 
-[Brown University Neuro 1 Web site](http://brownuniversityneurodug.webflow.io/) where Prof. Bear used to teach; contains some similar multiple choice questions
+{{% resource_link "ef38fc63-dfdb-43da-8850-853b69ab2884" "Brown University Neuro 1 Web site" %}} where Prof. Bear used to teach; contains some similar multiple choice questions
 
 Exam 2 Review
 -------------
