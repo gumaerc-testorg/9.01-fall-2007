@@ -4,6 +4,7 @@ description: Review materials for a final exam. Topics include neuroscience expe
   neurophysiology, neurochemistry, pharmacology, lesions, behavioral studies, and
   visualizing brain structures.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/b609be50b5de39ea40e6b03fb8b83c5c_finalrev_experi.pdf
+file_size: 25201
 file_type: application/pdf
 learning_resource_types:
 - Exams

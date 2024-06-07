@@ -4,6 +4,7 @@ description: Recitation notes on the central nervous system, the peripheral nerv
   system, the anatomy of the eye, image formation by the eye, anatomy of the retina,
   phototransduction, and dark and light adaptation.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/ec0a36e0eda2be3545181cd389369664_wk07_sechand1015.pdf
+file_size: 682068
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -7,6 +7,7 @@ description: Lecture notes on neural systems, vision, complex cells, direction s
   areas, double dissociation, a random dot stereogram, different monocular images,
   the lateral geniculate nucleus, LGN input, and ocular dominance columns.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/5e6f0adfa8a0e95470df9b9810a6be06_11_vision3.pdf
+file_size: 622634
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

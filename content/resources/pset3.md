@@ -4,6 +4,7 @@ description: Problem set on neural network models of memory, the McCulloch-Pitts
   neuron, pattern completion by a Hebbian cell assembly, and voltage dependence of
   the NMDA receptor.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/77600741adc3d76a8330709757929578_pset3.pdf
+file_size: 169463
 file_type: application/pdf
 learning_resource_types:
 - Assignments
