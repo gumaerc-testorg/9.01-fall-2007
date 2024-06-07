@@ -8,6 +8,7 @@ description: "Lecture notes on neural systems, the motor system, movement, supra
   \ pathway, basal ganglia, Parkinson\u2019s disease, Huntington\u2019s disease, and\
   \ cerebellar function."
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/b81b265b817be0fecfb6d534bbe55588_15_motor2.pdf
+file_size: 435204
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

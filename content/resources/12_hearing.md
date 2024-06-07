@@ -7,6 +7,7 @@ description: Lecture notes on neural systems, hearing, anatomy of the ear, the a
   auditory cortex, interaural time delay, superior olive neurons, axonal delay lines,
   and vertical localization.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/789180c4f020757dcec75bdab822f590_12_hearing.pdf
+file_size: 666856
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
