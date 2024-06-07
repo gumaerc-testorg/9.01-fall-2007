@@ -2,6 +2,7 @@
 content_type: resource
 description: Review materials for an exam on neuroscience.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/c35d4299b1b83cdc878c089e83c69fec_9_01_ex2rev_al.pdf
+file_size: 112852
 file_type: application/pdf
 learning_resource_types:
 - Exams

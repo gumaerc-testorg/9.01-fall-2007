@@ -4,6 +4,7 @@ description: "Review materials for an exam on neuroscience. Topics include chemi
   \ control of the brain, brain disorders and Alzheimer\u2019s disease, eating and\
   \ motivation, and attention."
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/6d65403d1e254cba43e894a57b9ae309_9_01_final_rev.pdf
+file_size: 335693
 file_type: application/pdf
 learning_resource_types:
 - Exams
