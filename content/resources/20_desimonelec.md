@@ -5,7 +5,7 @@ description: Lecture presentation on attention, selective attention characterize
   and awareness, the ventral object recognition stream, and its "top-down" control
   by attention, the fronto-parietal system for top-down attentional control, , and
   interactions between prefrontal cortex and visual cortex.
-file: /courses/9-01-introduction-to-neuroscience-fall-2007/a4f3665f7c98664b835388ff6678f165_20_desimonelec.pdf
+file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/a4f3665f7c98664b835388ff6678f165_20_desimonelec.pdf
 file_size: 4303039
 file_type: application/pdf
 learning_resource_types:
