@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on cellular neuroanatomy, neurons, and glia.
-file: /courses/9-01-introduction-to-neuroscience-fall-2007/5d0a34d6130769733815477bf0a5978f_wk02_sechand0910.pdf
+file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/5d0a34d6130769733815477bf0a5978f_wk02_sechand0910.pdf
 file_size: 53247
 file_type: application/pdf
 learning_resource_types:
