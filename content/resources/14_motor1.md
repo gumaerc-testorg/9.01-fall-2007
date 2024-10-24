@@ -7,7 +7,7 @@ description: "Lecture notes on neural systems, motor systems, movement, actin/my
   \ gamma motor neurons, the Golgi tendon organs, the flexor reflex, reciprocal inhibition\
   \ of flexors and extensors, rhythmic behaviors, central pattern generators, intrinsic\
   \ oscillators, and mutual inhibition."
-file: /courses/9-01-introduction-to-neuroscience-fall-2007/35fbc750c2a62f7b0d2d15ccaf34b80a_14_motor1.pdf
+file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/35fbc750c2a62f7b0d2d15ccaf34b80a_14_motor1.pdf
 file_size: 307696
 file_type: application/pdf
 learning_resource_types:
