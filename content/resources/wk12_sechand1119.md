@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on chemical control of the brain and behavior.
-file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/2ab25c7183202407406abd72a3a15b1d_wk12_sechand1119.pdf
+file: /courses/9-01-introduction-to-neuroscience-fall-2007/2ab25c7183202407406abd72a3a15b1d_wk12_sechand1119.pdf
 file_size: 725740
 file_type: application/pdf
 learning_resource_types:
