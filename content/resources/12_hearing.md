@@ -6,7 +6,7 @@ description: Lecture notes on neural systems, hearing, anatomy of the ear, the a
   content, periodic signals, the TRPA1 channel, hair cells, tonotopic maps, the primary
   auditory cortex, interaural time delay, superior olive neurons, axonal delay lines,
   and vertical localization.
-file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/789180c4f020757dcec75bdab822f590_12_hearing.pdf
+file: /courses/9-01-introduction-to-neuroscience-fall-2007/789180c4f020757dcec75bdab822f590_12_hearing.pdf
 file_size: 666856
 file_type: application/pdf
 learning_resource_types:

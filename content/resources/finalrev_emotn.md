@@ -2,7 +2,7 @@
 content_type: resource
 description: Review material for the final exam of the course. Topics include theories
   of emotion, the anatomical basis for emotion, aggression, serotonin, and attachment.
-file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/a6eafa79eebfa273cbe2fcc9f08aff1e_finalrev_emotn.pdf
+file: /courses/9-01-introduction-to-neuroscience-fall-2007/a6eafa79eebfa273cbe2fcc9f08aff1e_finalrev_emotn.pdf
 file_size: 81933
 file_type: application/pdf
 learning_resource_types:
