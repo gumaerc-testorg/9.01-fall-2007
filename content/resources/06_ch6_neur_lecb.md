@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on synaptic transmission.
-file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/ad26337e97ce96190b125bd88d0bab75_06_ch6_neur_lecb.pdf
+file: /courses/9-01-introduction-to-neuroscience-fall-2007/ad26337e97ce96190b125bd88d0bab75_06_ch6_neur_lecb.pdf
 file_size: 1679983
 file_type: application/pdf
 learning_resource_types:

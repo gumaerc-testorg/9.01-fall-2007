@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on learning and memory, working memory, short-term memory,
   active manipulation of information, and nondeclarative memory.
-file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/213b76154caafa7c197030c08e5bca33_21_nondeclarativ.pdf
+file: /courses/9-01-introduction-to-neuroscience-fall-2007/213b76154caafa7c197030c08e5bca33_21_nondeclarativ.pdf
 file_size: 350134
 file_type: application/pdf
 learning_resource_types:
