@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on neural systems, vision, illusions, reflectance, light,
   and color.
-file: /courses/9-01-introduction-to-neuroscience-fall-2007/e16c00eec1cc935f93dd94f47b95b67e_10_vision2.pdf
+file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/e16c00eec1cc935f93dd94f47b95b67e_10_vision2.pdf
 file_size: 793412
 file_type: application/pdf
 learning_resource_types:

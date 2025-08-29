@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review materials for an exam on neuroscience.
-file: /courses/9-01-introduction-to-neuroscience-fall-2007/a61ab05abd8e0a581d03eb275bbd5780_9_01_ex1rev_al.pdf
+file: /ol-ocw-studio-app/courses/9-01-introduction-to-neuroscience-fall-2007/a61ab05abd8e0a581d03eb275bbd5780_9_01_ex1rev_al.pdf
 file_size: 51797
 file_type: application/pdf
 learning_resource_types:
